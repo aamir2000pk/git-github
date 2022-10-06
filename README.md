@@ -1,2 +1,2 @@
 # git-github
-Repo fir Devops Git-Hub Traning
+Repo for Devops Git-Hub Traning
